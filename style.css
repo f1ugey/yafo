@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+
+    background-color: black;
+    font-family: 'Raleway', sans-serif; 
+    src: url(Raleway-Regular_wght.ttf);
+    color:white;
+}
+.photo {
+
+    width: 20%;
+
+}
+.wrapper {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h1, h2, p {
+    text-align: center;
+}
